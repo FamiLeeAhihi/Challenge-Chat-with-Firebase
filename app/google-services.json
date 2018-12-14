@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "955620833239",
+    "firebase_url": "https://chat-with-firebase-74f11.firebaseio.com",
+    "project_id": "chat-with-firebase-74f11",
+    "storage_bucket": "chat-with-firebase-74f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955620833239:android:0bf2cfe25eae035d",
+        "android_client_info": {
+          "package_name": "com.example.dung.chatwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955620833239-3l95e0rj1arg9i3mkd7qacipc14q6r88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-Wwc2V5qx55HnkYvO_bUVBkresnzw2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
